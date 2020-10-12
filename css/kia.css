@@ -35,7 +35,7 @@
 }
 
 .jumbotron .container {
-  max-width: 40rem;
+  max-width: 45rem;
 }
 
 footer {
@@ -45,4 +45,22 @@ footer {
 
 footer p {
   margin-bottom: .25rem;
+}
+
+.black {
+  color: black;
+}
+
+
+.carousel-caption {
+  position: relative;
+  left: 0;
+  top: 0;
+  bottom: 30;
+}
+
+
+.carousel-inner{
+  width:100%;
+ 
 }
