@@ -9,9 +9,9 @@ Stran naj bo čimbolje SEO optimizirana.
 Povezave na slikah/gumbih naj bodo prazne (ne vodijo nikamor).
 Predogled strani lahko začasno objavite na spletnem strežniku po izbiri ali nam pošljete izvorne datoteke po elektronski pošti.
 
-Na stran vstavite seznam vozil, ki ga dinamično preberete iz api-ja na naslovu: <https://www.kia.si/naloga_api>
+Na stran vstavite seznam vozil, ki ga dinamično preberete iz api-ja na [naslovu:](https://www.kia.si/naloga_api)
+
 Za vključitev podatkov iz api-ja lahko uporabite poljubno tehnologijo.
---
 
 V GLAVO (HEADER) STRANI DAJTE NAZIV:
 Prodajni center rabljenih vozil
