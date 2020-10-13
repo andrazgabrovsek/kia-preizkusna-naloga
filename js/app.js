@@ -89,33 +89,3 @@ function createCarouselItem(car, index) {
 
   return carouselItem;
 }
-
-{/* <div class="carousel-item">
-              <img src="..." class="d-block w-100" alt="...">
-              <div class="carousel-caption d-none d-md-block">
-                <h5>Second slide label</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-              </div>
-            </div> */}
-
-//     // prepare data
-//     const cars = response.data;
-
-//     // get unordered list HTML element (id = test)
-//     const ourListOfCars = document.getElementById('test')
-
-//     // for each car in the list we got
-//     Object.keys(cars).forEach(carId => {
-//         // extract car name
-//         const carName = cars[carId].name;
-
-//         // create new list item
-//         const listItem = document.createElement('li');
-
-//         // set text of list item to the list item
-//         listItem.innerText = carName;
-
-//         // add list item to the unordered list (id = test in html)
-//         ourListOfCars.appendChild(listItem);
-//     });
-// }
